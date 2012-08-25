@@ -1,24 +1,24 @@
 Llamado a charlas
 
-¿Querés compartir tu experiencia y conocimientos? ¿Querés presentar tu propio proyecto? PyCon Uruguay está buscando propuestas para el programa de PuCon Uruguay 2012. Las actividades de este encuentro está programada pafra los días sábado 13 y domingo 14 de octubre en el centro de conferencias del LATU, en Montevideo, República Oriental del Uruguay.
+¿Querés compartir tu experiencia y conocimientos? ¿Querés presentar tu propio proyecto? Estamos buscando propuestas para el programa de PyCon Uruguay 2012. Las actividades de este encuentro están programadas para los días Sábado 10 y Domingo 11 de Noviembre en el centro de conferencias del LATU, en Montevideo, República Oriental del Uruguay.
 
-La temática de las presentaciones abarcará tópicos relacionados a software de código abierto, sean proyectos académicos o comerciales, tutoriales, casos prácticos. Se considerarán para su inclusión en el programa, las propuestas que resulten de interés o sean potencialmente útiles para la comunidad Python.
+La temática de las presentaciones podré abarcar tópicos relacionados a software de código abierto, ya sean proyectos académicos o comerciales, tutoriales, casos prácticos. Se considerarán para su inclusión en el programa, las propuestas que resulten de interés o sean potencialmente útiles para la comunidad Python.
 
-Estamos especialmente interesados ​​en presentaciones cortas que enseñan a los asistentes algo nuevo y útil. ¿Podés enseñar al público cómo utilizar un módulo, una característica del lenguaje Python, empaquetar una aplicación? Nos encantaría contar con tu aporte!
+Estamos especialmente interesados en presentaciones cortas que presenten a los asistentes algo nuevo y útil. ¿Poedés enseñar al público cómo utilizar un módulo, una característica de Python, empaquetar una aplicación? Nos encantaría contar con tu aporte!
 
-Si tenés alguna duda o cualquier pregunta, por favor escribinos al mail de Programa de PyCon Uruguay <programa@pycon.org.uy>
+Si tenés dudas, preguntas o sugerencias, por favor escribinos al email de Programa de PyCon Uruguay <programa@python.org.uy>.
 
 
 Fechas Importantes
 
-    Recepción de propuestas a partir de: 03 de setiembre de 2012
-    Plazo de presentación de propuestas: 13 de octubre de 2012
-    Aceptación de propuestas : 25 de octubre de 2012
+    1. Recepción de propuestas a partir de: 28 de agosto de 2012
+    2. Plazo de presentación de propuestas: 10 de octubre de 2012
+    3. Aceptación de propuestas: 15 de octubre de 2012
 
 
 Temas sugeridos
 
-Los temas preferidos para presentaciones PyCon incluyen, pero no están limitados a:
+Los temas adecuados para las presentaciones incluyen, pero no están limitados a:
 
     Core Python, incluyendo Python 3000
     Otras implementaciones: IronPython, Jython, PyPy y sin apilado/sin pila ¿?.
@@ -42,24 +42,24 @@ Los temas preferidos para presentaciones PyCon incluyen, pero no están limitado
 
 Formato de las conferencias
 
-La duración preferida para las conferencias es de 30 minutos. Podrán concederse duraciones mayores, con un máximo de 45 minutos, las solicitudes que deberán acompañarse de justificación expresa.
+La duración preferida para las conferencias es de 30 minutos. Podrán concederse mayores duraciones, con un máximo de 45 minutos, las solicitudes deberán acompañarse de una justificación expresa.
 
-Duración de la sesión incluirá tiempo para preguntas del público. Se sugiere reservar un mínimo de cinco minutos para preguntas, por ejemplo, una charla de 30 minutos será de 25 minutos de presentación y 5 minutos de preguntas.
-Presentation Recording
+La duración de la sesión incluirá tiempo para preguntas del público. Se sugiere reservar un mínimo de cinco minutos para preguntas, por ejemplo, una charla de 30 minutos será de 25 minutos de presentación y 5 minutos de preguntas.
 
 
 Grabación de las presentaciones.
 
 Está prevista la grabación de las presentaciones y su posterior divulgación bajo licencias CC, para lo cuál el autor expresa su consentimiento al momento de remitir su propuesta.
 
-Si preferíes que tu conferencia no sea grabada, deberás hacerlo saber explícitamente
+Si prefieres que tu conferencia no sea grabada, deberás notificarlo explícitamente en la petición.
 
 
 Cómo presentar
 
-La recepción de propuestas se hacen a través del sistema de envíos de online de PyConUY <link>. Primero deberás registrarte al evento y luego proceder al envío de tu propuesta.
+La recepción de propuestas está disponible en línea. Si ya estás inscripto podés cargar la propuesta en el form. En caso contrario serás redirigido directamente al form de registro o al inicio de sesión, según corresponda.
 
 Las propuestas deben ser presentadas por su autor principal, pudiendo agregarse varios autores adicionales a la solicitud. Se requiere registro individual al evento para cada uno de ellos.
+
 
 La propuesta debe incluir:
 
@@ -68,13 +68,13 @@ La propuesta debe incluir:
     Resumen:
         Abstract a ser publicado en el sitio web y el programa.
         Notas privadas para los revisores.
-    Nivel de dificultad: indicar destinatarios de la charla, el nivel de dificultad: Principiante / Intermedio / Avanzado. Añadir más detalles en el resumen y / o descripción, tales como la experiencia específica requerida.
+    Nivel de dificultad: indicar publico objetivo de la charla, el nivel de dificultad: Principiante / Intermedio / Avanzado. Añadir más detalles en el resumen y / o descripción, tales como la experiencia específica requerida.
     Detalles del proyecto: Si corresponde proporcionar información sobre el proyecto relacionado con la propuesta.
     Más información acerca de los autores.
         Biografía a publicar en el sitio web y el programa.
-        Su experiencia: Sólo para los revisores.
+        Tu experiencia: Sólo para los revisores.
 
 
 Publicación de documentos.
 
-Preferentemente, los documentos de las charlas de duración estándar (30 minutos) no deberían ocupar más de 5 páginas A4, font de 11 puntos, con márgenes razonables, y no más de 10 para las conferencias largas (45 minutos). Formatos de los archivo deberán ser accecibles para Libre/Open Office o un visor PDF. Todos los documentos deberán contar con licencias CC.
+Preferentemente, los documentos de las charlas de duración estándar (30 minutos) no deberán ocupar más de 5 páginas A4, tipografía de 11 puntos, con márgenes razonables, y no más de 10 páginas para las conferencias largas (45 minutos). Los formatos de los archivos deberán ser accesibles utilizando Libre/Open Office o un visor PDF. Todos los documentos deberán contar con licencias CC.

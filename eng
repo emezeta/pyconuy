@@ -6,20 +6,19 @@ Presentation subjects may range from reports on open source, academic or commerc
 
 We're especially interested in short presentations that will teach conference-goers something new and useful. Can you show attendees how to use a module? Explore a Python language feature? Package an application? We'd love to hear from you!
 
-If you have any questions, please review the information below or contact the PyCon Uruguay Program Committee at <programa@pycon.org.uy>.
+If you have any questions, please review the information below or contact the PyCon Uruguay Program Committee at <programa@python.org.uy>.
 
 
 Important Dates
 
-    Call for Proposals opens: February 22, 2012
-    Proposal submission deadline: May 4, 2012
-    Proposal acceptance: May 18, 2012
+    1. Call for Proposals opens: August 28, 2012
+    2. Proposal submission deadline: Oct 10, 2012
+    3. Proposal acceptance: Oct 15, 2012
 
 
 Suggested Topics
 
 Suitable topics for PyCon presentations include, but are not limited to:
-
     Core Python, including Python 3000
     Other implementations: IronPython, Jython, PyPy, and Stackless.
     Web programming (Django, Pylons, Zope, TurboGears, WSGI, Google App Engine, ...)
@@ -54,16 +53,17 @@ Session lengths include time for audience questions. You should budget at least 
 
 Presentation Recording
 
-We hope to record presentations again this year, though this is pending sponsorship support and not confirmed.
+We hope to record presentations, though this is pending sponsorship support and not confirmed.
 
-If you do not wish to have your talk recorded the please note this in your submission. Doing so will not influence the selection process in any way.
+If you do not wish to have your talk recorded please note this in your submission. Doing so will not influence the selection process in any way.
 
 
 How to Submit
 
-Use the PyCon Uruguay Online Proposal Submission system to send us your proposals. You must first create an account on the website (and be logged in) in order to submit a proposal.
+Use the PyCon Online Proposal Submission system to send us your proposals. You must first create an account on the website (and be logged in) in order to submit a proposal. You will be redirected if apply.
 
 The primary author should submit the proposal. Additional authors can be added to a proposal on request (they must have accounts too).
+
 
 The proposal must include the following:
 
@@ -81,4 +81,4 @@ The proposal must include the following:
 
 Paper Publication
 
-We would prefer that papers for standard length talks (30 minutes) be no more than 5 A4 pages of 11-point type with reasonable margins and papers for long talks (45 minutes) be no more than 10 pages. Appropriate file formats include any file that can be read with Open Office (which includes plain text and HTML with minimal mark-up) or a PDF viewer. Slides (even those accompanied by speaker notes) will not be printed in the proceedings
+We would prefer that papers for standard length talks (30 minutes) be no more than 5 A4 pages of 11-point type with reasonable margins and papers for long talks (45 minutes) be no more than 10 pages. Appropriate file formats include any file that can be read with Open Office (which includes plain text and HTML with minimal mark-up) or a PDF viewer. Slides (even those accompanied by speaker notes) will not be printed in the proceedings. All provided documentation must be released with a CC license.
