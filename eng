@@ -1,6 +1,8 @@
 Call for Proposals
 
-Do you want to share your experience and expertise? PyCon Uruguay 2012 is looking for proposals to fill the conference presentation tracks. This meeting is scheduled for Saturday 13 and Sunday 14 October at the LATU Conference Center in Montevideo, Uruguay.
+Do you want to share your experience and expertise? PyCon Uruguay 2012 is looking for proposals to fill the conference presentation tracks. This meeting is scheduled for Saturday 10 and Sunday 11 of November at the LATU Conference Center in Montevideo, Uruguay.
+
+Proposals can be one of two kinds, traditional talks or sprints. It's planned that all presentations will take place on Saturday 10 and only one coding sprint (hackaton) on Sunday 11 of November.
 
 Presentation subjects may range from reports on open source, academic or commercial projects to tutorials and case studies. As long as a presentation is interesting and potentially useful to the Python community, it will be considered for inclusion in the program.
 
@@ -11,9 +13,9 @@ If you have any questions, please review the information below or contact the Py
 
 Important Dates
 
-    Call for Proposals opens: February 22, 2012
-    Proposal submission deadline: May 4, 2012
-    Proposal acceptance: May 18, 2012
+    Call for Proposals opens: August 29, 2012
+    Proposal submission deadline: October 1, 2012
+    Proposal acceptance: October 10, 2012
 
 
 Suggested Topics
@@ -47,8 +49,6 @@ Talk Format
 
 The preferred length for talks is 30 minutes. You can request a 45-minute extended slot, but proposals requiring 45 minutes will be reviewed more stringently. 45-minute slots are, as a rule of thumb, reserved for how-to talks rather than talks about things you made, saw, or did.
 
-An Open Space room will also be available for follow-up sessions.
-
 Session lengths include time for audience questions. You should budget at least five minutes for questions; for example, a 30-minute talk will be 25 minutes of presentation and 5 minutes of questions.
 
 
@@ -61,13 +61,14 @@ If you do not wish to have your talk recorded the please note this in your submi
 
 How to Submit
 
-Use the PyCon Uruguay Online Proposal Submission system to send us your proposals. You must first create an account on the website (and be logged in) in order to submit a proposal.
+Use the PyCon Uruguay Online Proposal Submission system to send us your proposals <link>. You must first create an account on the website (and be logged in) in order to submit a proposal.
 
 The primary author should submit the proposal. Additional authors can be added to a proposal on request (they must have accounts too).
 
 The proposal must include the following:
 
-    Talk title.
+    Proposal title.
+    Proposal description.
     Duration/Type: choose 30 minutes for most talks, 45 minutes for extended talks or Tutorial.
     Abstract:
         Public abstract for website and programme.
@@ -81,4 +82,4 @@ The proposal must include the following:
 
 Paper Publication
 
-We would prefer that papers for standard length talks (30 minutes) be no more than 5 A4 pages of 11-point type with reasonable margins and papers for long talks (45 minutes) be no more than 10 pages. Appropriate file formats include any file that can be read with Open Office (which includes plain text and HTML with minimal mark-up) or a PDF viewer. Slides (even those accompanied by speaker notes) will not be printed in the proceedings
+We would prefer that papers for standard length talks (30 minutes) be no more than 5 A4 pages of 11-point type with reasonable margins and papers for long talks (45 minutes) be no more than 10 pages. Appropriate file formats include any file that can be read with Open Office (which includes plain text and HTML with minimal mark-up) or a PDF viewer. Slides (even those accompanied by speaker notes) will not be printed in the proceedings.
