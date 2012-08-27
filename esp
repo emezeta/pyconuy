@@ -8,21 +8,19 @@ La temática de las presentaciones abarcará tópicos relacionados a software de
 
 Estamos interesados en presentaciones cortas que enseñen a los asistentes algo nuevo y útil. ¿Podés enseñar al público cómo utilizar un módulo, una característica del lenguaje Python, empaquetar una aplicación? Nos encantaría contar con tu aporte!
 
- 
-
-Si tenés alguna duda o cualquier pregunta, por favor escribinos al mail de Programa de PyCon Uruguay <programa@pycon.org.uy>
+Si tenés dudas, preguntas o sugerencias, por favor escribinos al email de Programa de PyCon Uruguay <programa@python.org.uy>.
 
 
 Fechas Importantes
 
-    Recepción de propuestas a partir de: 29 de Agosto de 2012
-    Plazo de presentación de propuestas: 1 de Octubre de 2012
-    Aceptación de propuestas : 10 de octubre de 2012
+    1. Recepción de propuestas a partir de: 29 de Agosto de 2012
+    2. Plazo de presentación de propuestas: 1 de Octubre de 2012
+    3. Aceptación de propuestas : 10 de octubre de 2012
 
 
 Temas sugeridos
 
-Los temas preferidos para presentaciones PyCon incluyen, pero no están limitados a:
+Los temas adecuados para las presentaciones incluyen, pero no están limitados a:
 
     Core Python, incluyendo Python 3000
     Otras implementaciones: IronPython, Jython, PyPy y sin apilado/sin pila ¿?.
@@ -50,6 +48,7 @@ La duración preferida para las conferencias es de 30 minutos. Podrán conceders
 
 Duración de la sesión incluirá tiempo para preguntas del público. Se sugiere reservar un mínimo de cinco minutos para preguntas, por ejemplo, una charla de 30 minutos será de 25 minutos de presentación y 5 minutos de preguntas.
 
+
 Grabación de las presentaciones.
 
 Está prevista la grabación de las presentaciones y su posterior divulgación bajo licencias CC, para lo cuál el autor expresa su consentimiento al momento de remitir su propuesta.
@@ -59,9 +58,10 @@ Si prefieres que tu conferencia no sea grabada, deberás hacerlo saber explícit
 
 Cómo presentar
 
-La recepción de propuestas se hacen a través del sistema de envíos de online de PyConUY <link>. Primero deberás registrarte al evento y luego proceder al envío de tu propuesta.
+La recepción de propuestas está disponible en línea. Si ya estás inscripto podés cargar la propuesta en el form. En caso contrario serás redirigido directamente al form de registro o al inicio de sesión, según corresponda.
 
 Las propuestas deben ser presentadas por su autor principal, pudiendo agregarse varios autores adicionales a la solicitud. Se requiere registro individual al evento para cada uno de ellos.
+
 
 La propuesta debe incluir:
 
@@ -76,9 +76,9 @@ La propuesta debe incluir:
     Detalles del proyecto: Si corresponde proporcionar información sobre el proyecto relacionado con la propuesta.
     Más información acerca de los autores.
         Biografía a publicar en el sitio web y el programa.
-        Su experiencia: Sólo para los revisores.
+        Tu experiencia: Sólo para los revisores.
 
 
-Publicación de paper.
+Publicación de documentos
 
-Preferentemente, los papers de las charlas de duración estándar (30 minutos) no deberían ocupar más de 5 páginas A4, font de 11 puntos, con márgenes razonables, y no más de 10 para las conferencias largas (45 minutos). Formatos de los archivo deberán ser accecibles para Libre/Open Office o un visor PDF. Las diapositivas (incluyendo aquellas compañadas de notas del expositor) no será impresas en el evento.
+Preferentemente, los documentos de las charlas de duración estándar (30 minutos) no deberán ocupar más de 5 páginas A4, tipografía de 11 puntos, con márgenes razonables, y no más de 10 páginas para las conferencias largas (45 minutos). Los formatos de los archivos deberán ser accesibles utilizando Libre/Open Office o un visor PDF. Todos los documentos deberán contar con licencias CC.
