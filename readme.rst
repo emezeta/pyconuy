@@ -1,12 +1,8 @@
 Propuesta de llamado a charlas PyCon.Uy 2012:
 
 
-- html: columnas inglés y español:
+- TODO: ...
+- ing: texto en inglés:
 - esp: texto en español:
-- ing: ... bueno eso, si:
+- readme.rst: este archivo
 
-
-Vista borrador:  https://github.com/emezeta/pyconuy/wiki/CFP
-
-
-20/08/2012
