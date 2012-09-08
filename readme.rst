@@ -3,7 +3,7 @@ Propuesta de llamado a charlas PyCon.Uy 2012:
 
 - TODO: ...
 
-- ing: texto RFC - inglés
+- ing: texto RFC web - inglés
 - esp: español
 
 - call4speakers-eng: borrador para apertura del llamado - inglés
